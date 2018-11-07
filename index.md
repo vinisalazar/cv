@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vini Salazar - CV
 ---
 # Vini Salazar, BSc
 Biologist, Programmer, Scientific Diver
@@ -63,7 +63,6 @@ __Crystal Divers__ - Bali, Indonesia
 __Australian Institute of Marine Science__- Townsville, Australia
 - Research assistant
 - Molecular biology laboratory
-
 
 ## Awards
 

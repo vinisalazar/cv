@@ -6,12 +6,12 @@ title: Vini Salazar - CV
 Biologist, Programmer, Scientific Diver
 
 <div id="webaddress">
-<a href="viniws@gmail.com">viniws@gmail.com</a>
+<a href="mailto:viniws@gmail.com">viniws@gmail.com</a>
 | <a href="https://github.com/vinisalazar">My GitHub profile</a> | <a href="http://lattes.cnpq.br/3615050262193115"> Lattes</a>
 </div>
 
 ## About
-I am a biologist turned programmer focusing on the marine environment.   
+Biologist turned programmer focusing on the marine environment.   
 I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
 
 If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/">Lattes</a> page listed above (available in Portuguese only).  
@@ -40,6 +40,7 @@ Bioinformatics, microbial ecology, marine genomics, biological oceanography, sci
 __Universidade Federal de Santa Catarina, Brazil__
 
 - BSc Biological Sciences
+- Thesis: "Programming education for biologists"
 
 `2014-2015`
 __The University of Queensland, Australia__
@@ -74,4 +75,5 @@ CAPES scholarship 'Young Talents in Science'
 `2014`
 CNPq study abroad scholarship 'Science Without Borders'  
 
-
+--  
+This page was made with a fork of <a href="https://github.com/elipapa/markdown-cv">markdown-cv</a>.

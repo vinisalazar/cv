@@ -24,11 +24,21 @@ Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Coste
 
 ### Technologies
 
-Python, R, SQL, Git
+Python, R, SQL, Git, Bash/UNIX
+
+### Expertise
+
+- Genomic analysis, including but not limited to:
+  * 16S rRNA gene surveys
+  * Genome assembly  
+* Informatics and programming education
+* Backend development with Django, database management
+* Statistics, Data visualization.
+* Benchtop activities and good laboratory practices
 
 ### Other skills
 
-PADI OWSI instructor, First Aid instructor
+PADI OWSI instructor, First Aid instructor, great communication and writing skills, english proficiency (IELTS and TOEFL exams).
 
 ### Research interests
 

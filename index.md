@@ -2,90 +2,72 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vini Salazar, BSc
+Biologist, Programmer, Scientific Diver
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="viniws@gmail.com">viniws@gmail.com</a>
+| <a href="https://github.com/vinisalazar">My GitHub profile</a>
 </div>
 
+## About
+I am a biologist turned programmer focusing on the marine environment. I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
+Please, feel free to reach out by e-mail or through my GitHub profile.
 
 ## Currently
 
-Standing on the shoulders of giants
+Bioinformatician at <a href="https://neoprospecta.com/">Neoprospecta Microbiome Technologies</a>.    
+Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Costeira/">GOC</a>.
 
-### Specialized in
+### Technologies
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, R, SQL, Git
 
+### Other skills
+
+PADI OWSI instructor, First Aid instructor
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Bioinformatics, microbial ecology, marine genomics, biological oceanography, scientific diving, programming education
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2018`
+__Universidade Federal de Santa Catarina, Brazil__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BSc Biological Sciences
 
-- Sizar
+`2014-2015`
+__The University of Queensland, Australia__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- CNPq Science Without Borders study abroad student
 
-- Fellow
+## Professional experience
 
+`2016-2018`
+__Phycology Laboratory, UFSC__ - Florianópolis, Brazil
+- Junior researcher
+- Algae physiology and response to climate change
+- Scientific diving
+
+`2013-2017`
+__Agua Viva Diving__ - Florianópolis, Brazil
+- SCUBA diving instructor
+
+`2015`
+__Crystal Divers__ - Bali, Indonesia
+- Professional Divemaster Internship
+
+`2015`
+__Australian Institute of Marine Science__- Townsville, Australia
+- Research assistant
+- Molecular biology laboratory
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+CAPES scholarship 'Young Talents in Science'  
+`2014`
+CNPq study abroad scholarship 'Science Without Borders'

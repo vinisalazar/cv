@@ -11,7 +11,8 @@ Biologist, Programmer, Scientific Diver
 </div>
 
 ## About
-I am a biologist turned programmer focusing on the marine environment. I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
+I am a biologist turned programmer focusing on the marine environment.   
+I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
 
 If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/">Lattes</a> page listed above (available in Portuguese only).  
 Feel free to reach out by e-mail or through my GitHub profile.
@@ -71,4 +72,6 @@ __Australian Institute of Marine Science__- Townsville, Australia
 `2012`
 CAPES scholarship 'Young Talents in Science'  
 `2014`
-CNPq study abroad scholarship 'Science Without Borders'
+CNPq study abroad scholarship 'Science Without Borders'  
+
+

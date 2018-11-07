@@ -7,12 +7,14 @@ Biologist, Programmer, Scientific Diver
 
 <div id="webaddress">
 <a href="viniws@gmail.com">viniws@gmail.com</a>
-| <a href="https://github.com/vinisalazar">My GitHub profile</a>
+| <a href="https://github.com/vinisalazar">My GitHub profile</a> | <a href="http://lattes.cnpq.br/3615050262193115"> Lattes</a>
 </div>
 
 ## About
 I am a biologist turned programmer focusing on the marine environment. I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
-Please, feel free to reach out by e-mail or through my GitHub profile.
+
+If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/">Lattes</a> page listed above (available in Portuguese only).  
+Feel free to reach out by e-mail or through my GitHub profile.
 
 ## Currently
 

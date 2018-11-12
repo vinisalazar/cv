@@ -24,13 +24,20 @@ Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Coste
 
 ### Technologies
 
-Python, R, SQL, Git, Bash/UNIX
+* Python, R, SQL, Git, UNIX  
+* Data and Bio Stack:
+  * Numpy  
+  * Scipy  
+  * Pandas  
+  * Matplotlib  
+  * BioPython
 
 ### Expertise
 
-- Genomic analysis, including but not limited to:
+* Genomic analysis, including but not limited to:
   * 16S rRNA gene surveys
   * Genome assembly  
+  * SNP analysis
 * Informatics and programming education
 * Backend development with Django, database management
 * Statistics, Data visualization.
@@ -38,7 +45,10 @@ Python, R, SQL, Git, Bash/UNIX
 
 ### Other skills
 
-PADI OWSI instructor, First Aid instructor, great communication and writing skills, english proficiency (IELTS and TOEFL exams).
+PADI OWSI instructor  
+First Aid instructor  
+Great communication and writing skills  
+English proficiency (IELTS and TOEFL exams)
 
 ### Research interests
 
@@ -58,6 +68,11 @@ __The University of Queensland, Australia__
 - CNPq Science Without Borders study abroad student
 
 ## Professional experience
+
+`2018 - present`
+__Neoprospecta Microbiome Technologies__ - Florianópolis, Brazil
+- Bioinformatic analysis
+- Backend development with Django
 
 `2016-2018`
 __Phycology Laboratory, UFSC__ - Florianópolis, Brazil

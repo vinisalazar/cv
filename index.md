@@ -14,7 +14,7 @@ Biologist, Programmer, Scientific Diver
 Biologist turned programmer focusing on the marine environment, specially microbial ecology.   
 I am passionate about the oceans, microbes, computers and teaching programming to other biologists and scientists.  
 
-If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/">Lattes</a> page listed above (available in Portuguese only).  
+If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/361505026219311">Lattes page</a> listed above (available in Portuguese only).  
 Feel free to reach out by e-mail or through my GitHub profile.
 
 ## Currently
@@ -60,7 +60,7 @@ Bioinformatics, microbial ecology, marine genomics, biological oceanography, sci
 __Universidade Federal de Santa Catarina, Brazil__
 
 - BSc Biological Sciences
-- Thesis: "Programming education for biologists"
+- Dissertation: "Programming education for biologists" [available here](https://repositorio.ufsc.br/handle/123456789/187711) (Portuguese only).
 
 `2014-2015`
 __The University of Queensland, Australia__

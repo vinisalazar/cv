@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Vini Salazar - CV
+title: Vini Salazar
 ---
 # Vini Salazar, BSc
 Biologist, Programmer, Scientific Diver
@@ -11,8 +11,8 @@ Biologist, Programmer, Scientific Diver
 </div>
 
 ## About
-Biologist turned programmer focusing on the marine environment.   
-I am passionate about the oceans, computers and teaching programming to other biologists and scientists.  
+Biologist turned programmer focusing on the marine environment, specially microbial ecology.   
+I am passionate about the oceans, microbes, computers and teaching programming to other biologists and scientists.  
 
 If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/">Lattes</a> page listed above (available in Portuguese only).  
 Feel free to reach out by e-mail or through my GitHub profile.

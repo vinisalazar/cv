@@ -7,7 +7,7 @@ Biologist, Programmer, Scientific Diver
 
 <div id="webaddress">
 <a href="mailto:viniws@gmail.com">viniws@gmail.com</a>
-| <a href="https://github.com/vinisalazar">My GitHub profile</a> | <a href="http://lattes.cnpq.br/3615050262193115"> Lattes</a>
+| <a href="https://github.com/vinisalazar">GitHub</a> | <a href="http://lattes.cnpq.br/3615050262193115"> Lattes</a>
 </div>
 
 ## About
@@ -40,13 +40,15 @@ Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Coste
   * SNP analysis
 * Informatics and programming education
 * Backend development with Django, database management
-* Statistics, Data visualization.
+* Statistics, Data visualization
+* Scientific diving, Reef Check protocols
 * Benchtop activities and good laboratory practices
 
 ### Other skills
 
 PADI OWSI instructor  
-First Aid instructor  
+EFR First Aid instructor  
+Extensive onboard experience
 Great communication and writing skills  
 English proficiency (IELTS and TOEFL exams)
 

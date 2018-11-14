@@ -48,9 +48,9 @@ Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Coste
 
 PADI OWSI instructor  
 EFR First Aid instructor  
-Extensive onboard experience
-Great communication and writing skills  
-English proficiency (IELTS and TOEFL exams)
+Extensive onboard experience  
+Great communication and writing skills    
+English proficiency (IELTS and TOEFL exams)  
 
 ### Research interests
 

@@ -42,6 +42,7 @@ Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Coste
 * Backend development with Django, database management
 * Statistics, Data visualization
 * Scientific diving, Reef Check protocols
+* Deployment of oceanographic equipment  
 * Benchtop activities and good laboratory practices
 
 ### Other skills
@@ -71,7 +72,7 @@ __The University of Queensland, Australia__
 
 ## Professional experience
 
-`2018 - present`
+`2018 - `
 __Neoprospecta Microbiome Technologies__ - Florianópolis, Brazil
 - Bioinformatic analysis
 - Backend development with Django

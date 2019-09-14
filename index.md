@@ -83,7 +83,7 @@ __Crystal Divers__ - Bali, Indonesia
 - Professional Divemaster Internship
 
 `2015`
-__Australian Institute of Marine Science__- Townsville, Australia
+__Australian Institute of Marine Science__ - Townsville, Australia
 - Research assistant
 - Molecular biology laboratory
 

@@ -13,44 +13,32 @@ Biologist, Programmer, Scientific Diver
 ## About
 Biologist turned programmer focusing on the marine environment, specially microbial ecology.   
 I am passionate about the oceans, microbes, computers and teaching programming to other biologists and scientists.  
+Also enjoy scaling computational experiments.  
 
 If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/361505026219311">Lattes page</a> listed above (available in Portuguese only).  
 Feel free to reach out by e-mail or through my GitHub profile.
 
 ## Currently
-
-Bioinformatician at <a href="https://neoprospecta.com/">Neoprospecta Microbiome Technologies</a>.    
-Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Costeira/">GOC</a>.
+- Bioinformatician at <a href="https://www.biome-hub.com/">BiomeHub</a>.    
+- Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Costeira/">GOC</a>.
+- MSc student at <a href="https://www.cos.ufrj.br/">UFRJ</a> - Systems Engineering and Computer Science program.
+- Instructor at [The Carpentries](https://carpentries.org/)
 
 ### Technologies
-
 * Python, R, SQL, Git, UNIX  
-* Data and Bio Stack:
-  * Numpy  
-  * Scipy  
-  * Pandas  
-  * Matplotlib  
-  * BioPython
+* Software I work with:
+  * **Sciency stuff**: [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](https://pandas.pydata.org/), [Dask](https://dask.org/).
+  * **Bio stuff**: [BioPython](https://biopython.org/), [HMMER](http://hmmer.org/), good old [BLAST](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)
+  * **Environment**: [conda](https://docs.conda.io/en/latest/), [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com)
 
 ### Expertise
-
-* Genomic analysis, including but not limited to:
-  * 16S rRNA gene surveys
-  * Genome assembly  
-  * SNP analysis
-* Informatics and programming education
-* Backend development with Django, database management
-* Statistics, Data visualization
-* Scientific diving, Reef Check protocols
-* Deployment of oceanographic equipment  
-* Benchtop activities and good laboratory practices
+* Genomic analysis, specially for bacterial genomes
+* Setting up and scaling scientific workflows and pipelines
+* Doing field work, both onboard and underwater
 
 ### Other skills
-
 PADI OWSI instructor  
 EFR First Aid instructor  
-Extensive onboard experience  
-Great communication and writing skills    
 English proficiency (IELTS and TOEFL exams)  
 
 ### Research interests
@@ -59,8 +47,14 @@ Bioinformatics, microbial ecology, marine genomics, biological oceanography, sci
 
 ## Education
 
+`2019 - present`
+__Federal University of Rio de Janeiro, Brazil__
+
+- MSc Systems Engineering and Computer Science
+- Research: Modular and scalable bioinformatics workflows with provenance monitoring
+
 `2012-2018`
-__Universidade Federal de Santa Catarina, Brazil__
+__Federal University of Santa Catarina, Brazil__
 
 - BSc Biological Sciences
 - Dissertation: "Programming education for biologists" [available here](https://repositorio.ufsc.br/handle/123456789/187711) (Portuguese only).
@@ -72,8 +66,8 @@ __The University of Queensland, Australia__
 
 ## Professional experience
 
-`2018 - `
-__Neoprospecta Microbiome Technologies__ - Florianópolis, Brazil
+`2018 - present`
+__BiomeHub__ - Florianópolis, Brazil
 - Bioinformatic analysis
 - Backend development with Django
 

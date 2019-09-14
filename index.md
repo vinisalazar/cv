@@ -11,9 +11,8 @@ Biologist, Programmer, Scientific Diver
 </div>
 
 ## About
-Biologist turned programmer focusing on the marine environment, specially microbial ecology.   
-I am passionate about the oceans, microbes, computers and teaching programming to other biologists and scientists.  
-Also enjoy scaling computational experiments.  
+Biologist turned programmer focusing on marine microbes.
+I also like scaling computational experiments and teaching programming to other scientists.  
 
 If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/361505026219311">Lattes page</a> listed above.  
 Feel free to reach out by e-mail or through my GitHub profile.
@@ -21,8 +20,8 @@ Feel free to reach out by e-mail or through my GitHub profile.
 ## Currently
 - Bioinformatician at <a href="https://www.biome-hub.com/">BiomeHub</a>.    
 - Autonomous researcher at <a href="https://github.com/Grupo-de-Oceanografia-Costeira/">GOC</a>.
-- MSc student at <a href="https://www.cos.ufrj.br/">UFRJ</a> - Systems Engineering and Computer Science program.
-- Instructor at [The Carpentries](https://carpentries.org/)
+- MSc student at <a href="https://www.cos.ufrj.br/">UFRJ</a>.
+- Instructor at [The Carpentries](https://carpentries.org/).
 
 ## Technologies
 * Python, R, SQL, Git, UNIX  

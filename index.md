@@ -24,29 +24,27 @@ Feel free to reach out by e-mail or through my GitHub profile.
 - MSc student at <a href="https://www.cos.ufrj.br/">UFRJ</a> - Systems Engineering and Computer Science program.
 - Instructor at [The Carpentries](https://carpentries.org/)
 
-### Technologies
+## Technologies
 * Python, R, SQL, Git, UNIX  
 * Software I work with:
   * **Sciency stuff**: [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](https://pandas.pydata.org/), [Dask](https://dask.org/).
   * **Bio stuff**: [BioPython](https://biopython.org/), [HMMER](http://hmmer.org/), good old [BLAST](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)
   * **Environment**: [conda](https://docs.conda.io/en/latest/), [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com)
 
-### Expertise
+## Expertise
 * Genomic analysis, specially for bacterial genomes
 * Setting up and scaling scientific workflows and pipelines
 * Doing field work, both onboard and underwater
 
-### Other skills
+## Other skills
 PADI OWSI instructor  
 EFR First Aid instructor  
 English proficiency (IELTS and TOEFL exams)  
 
-### Research interests
-
+## Research interests
 Bioinformatics, microbial ecology, marine genomics, biological oceanography, scientific diving, programming education
 
 ## Education
-
 `2019 - present`
 __Federal University of Rio de Janeiro, Brazil__
 
@@ -65,7 +63,6 @@ __The University of Queensland, Australia__
 - CNPq Science Without Borders study abroad student
 
 ## Professional experience
-
 `2018 - present`
 __BiomeHub__ - Florianópolis, Brazil
 - Bioinformatic analysis
@@ -91,11 +88,10 @@ __Australian Institute of Marine Science__- Townsville, Australia
 - Molecular biology laboratory
 
 ## Awards
-
-`2012`
-CAPES scholarship 'Young Talents in Science'  
 `2014`
 CNPq study abroad scholarship 'Science Without Borders'  
+`2012`
+CAPES scholarship 'Young Talents in Science'  
 
 --  
 This page was made with a fork of <a href="https://github.com/elipapa/markdown-cv">markdown-cv</a>.

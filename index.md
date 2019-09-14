@@ -15,7 +15,7 @@ Biologist turned programmer focusing on the marine environment, specially microb
 I am passionate about the oceans, microbes, computers and teaching programming to other biologists and scientists.  
 Also enjoy scaling computational experiments.  
 
-If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/361505026219311">Lattes page</a> listed above (available in Portuguese only).  
+If you need more info about my academic work, please visit my <a href="http://lattes.cnpq.br/361505026219311">Lattes page</a> listed above.  
 Feel free to reach out by e-mail or through my GitHub profile.
 
 ## Currently

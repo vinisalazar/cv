@@ -36,12 +36,15 @@ Feel free to reach out by e-mail or through my GitHub profile.
 * Doing field work, both onboard and underwater
 
 ## Other skills
-PADI OWSI instructor  
-EFR First Aid instructor  
-English proficiency (IELTS and TOEFL exams)  
+* PADI OWSI instructor  
+* EFR First Aid instructor  
+* English proficiency (IELTS and TOEFL exams)  
 
 ## Research interests
-Bioinformatics, microbial ecology, marine genomics, biological oceanography, scientific diving, programming education
+* Bioinformatics and genomics
+* Marine microbiology
+* Scientific software and workflows
+* Parallel and distributed computing
 
 ## Education
 `2019 - present`

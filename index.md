@@ -25,10 +25,10 @@ Feel free to reach out by e-mail or through my GitHub profile.
 
 ## Technologies
 * Python, R, SQL, Git, UNIX  
-* Software I work with:
+* Some things I work with:
   * **Sciency stuff**: [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](https://pandas.pydata.org/), [Dask](https://dask.org/).
-  * **Bio stuff**: [BioPython](https://biopython.org/), [HMMER](http://hmmer.org/), good old [BLAST](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421)
-  * **Environment**: [conda](https://docs.conda.io/en/latest/), [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com)
+  * **Bio stuff**: [BioPython](https://biopython.org/), [HMMER](http://hmmer.org/), good old [BLAST](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-421).
+  * **Environment**: [conda](https://docs.conda.io/en/latest/), [AWS](https://aws.amazon.com/), [Google Cloud](https://cloud.google.com) and Poseidon, our beloved UNIX cluster.
 
 ## Expertise
 * Genomic analysis, specially for bacterial genomes
